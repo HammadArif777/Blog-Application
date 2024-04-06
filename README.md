@@ -1,4 +1,4 @@
-# Blog Application using React, Redux-ToolKit, React-Router, Tailwind CSS
+# Blog Application using React, Redux-ToolKit, React-Router, Tailwind
 
 ### Features
 - Login (Not Authentication just want to understand and play with global state using redux)
